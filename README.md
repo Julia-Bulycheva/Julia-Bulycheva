@@ -4,4 +4,4 @@
 - 💬 Ask me about financial analisys and how to combine it with IT.
 
 ### Connect with me:
-[LInkedIn](https://www.linkedin.com/in/julia-bulycheva/)
+[<image src="/Media/ln.svg" width="60" Heigh="60" alt="LinkedIn Logo">](https://www.linkedin.com/in/julia-bulycheva/)
